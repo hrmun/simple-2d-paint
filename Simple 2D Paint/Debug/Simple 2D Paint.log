@@ -1,0 +1,23 @@
+﻿  Paint.cpp
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(75): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(375): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(376): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(377): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(378): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(379): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(380): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(384): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(385): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(386): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(387): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(388): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(389): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(620): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(621): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(759): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(774): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(835): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\antho\desktop\simple 2d paint\simple 2d paint\paint.cpp(854): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  LINK : C:\Users\antho\Desktop\Simple 2D Paint\Debug\Simple 2D Paint.exe not found or not built by the last incremental link; performing full link
+  Simple 2D Paint.vcxproj -> C:\Users\antho\Desktop\Simple 2D Paint\Debug\Simple 2D Paint.exe
+  Simple 2D Paint.vcxproj -> C:\Users\antho\Desktop\Simple 2D Paint\Debug\Simple 2D Paint.pdb (Partial PDB)
